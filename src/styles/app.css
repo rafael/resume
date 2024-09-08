@@ -39,6 +39,7 @@
 		--ring: 240 5.9% 10%;
 		--radius: 0.5rem;
 	}
+
 	.dark {
 		--background: 240 10% 3.9%;
 		--foreground: 0 0% 98%;
@@ -60,12 +61,38 @@
 		--input: 240 3.7% 15.9%;
 		--ring: 240 4.9% 83.9%;
 	}
+
+	.link-style {
+		color: #333;
+		/* Dark gray for light mode */
+		text-decoration: underline;
+		text-decoration-skip-ink: auto;
+		/* Avoid underline for whitespace */
+		transition: color 0.3s ease;
+		/* Smooth color transition */
+	}
+
+	.link-style:hover {
+		color: #222;
+		/* Darker gray on hover for light mode */
+	}
+
+	.dark .link-style {
+		color: #bbb;
+		/* Lighter gray for dark mode */
+	}
+
+	.dark .link-style:hover {
+		color: #ddd;
+		/* Even lighter gray on hover for dark mode */
+	}
 }
 
 @layer base {
 	* {
 		@apply border-border;
 	}
+
 	body {
 		@apply bg-background text-foreground;
 	}
