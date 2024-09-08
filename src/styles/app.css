@@ -86,6 +86,11 @@
 		color: #ddd;
 		/* Even lighter gray on hover for dark mode */
 	}
+
+	.small-svg {
+		width: 10px;
+		height: 10px;
+	}
 }
 
 @layer base {
