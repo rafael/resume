@@ -5,13 +5,11 @@ import Card from '../components/Card.astro'
 import ProjectCard from '../components/ProjectCard.astro'
 import Label from '../components/Label.astro'
 import SkillLayout from '../components/SkillLayout.astro'
-import PostPreview from '@/components/blog/PostPreview.astro'
 
 import { getAllPosts, sortMDByDate } from '@/utils'
-import { Icon } from 'astro-icon/components'
 
 const languages = ['ruby', 'go', 'scala (long time ago now)']
-const frontend: string[] = []
+// const frontend: string[] = []
 const backend = ['sinatra', 'rails']
 const others = ['aws', 'rds', 'mysql', 'vitess']
 
@@ -251,7 +249,7 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 			<SkillLayout title='Languages' skills={languages} />
 			<!-- <SkillLayout title='Frontend' skills={frontend} /> -->
 			<SkillLayout title='Backend' skills={backend} />
-			<!-- <SkillLayout title='Others' skills={others} /> -->
+			<SkillLayout title='Others' skills={others} />
 		</Section>
 	</div>
 </PageLayout>
