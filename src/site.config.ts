@@ -9,12 +9,12 @@ export const siteConfig: SiteConfig = {
 	// Meta property used as the default description meta property
 	description: 'Rafael Chacon Personal Website',
 	// HTML lang property, found in src/layouts/Base.astro L:18
-	lang: 'en-GB',
+	lang: 'en-US',
 	// Meta property, found in src/components/BaseHead.astro L:42
-	ogLocale: 'en_GB',
+	ogLocale: 'en_US',
 	// Date.prototype.toLocaleDateString() parameters, found in src/utils/date.ts.
 	date: {
-		locale: 'en-GB',
+		locale: 'en-US',
 		options: {
 			day: 'numeric',
 			month: 'short',
