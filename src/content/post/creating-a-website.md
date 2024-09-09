@@ -1,11 +1,9 @@
 ---
-title: "Creating a website"
+title: "Creating a website in 2024"
 publishDate: "8 September 2024"
 description: "General thoughts on creating a quick website in 2024. This blog post explains how this website is created"
 tags: ["html"]
 ---
-
-## Creating a website in 2024
 
 I haven't created or hosted a website in a very long time. I've used squarespace and wix in the past to quickly create websites. My wife asked my today if there are options she could use today that would enable her to create her website and that don't require a subscription. Quick look at some of the options out there, most of them require you to pay if you want a custom domain. 
 
