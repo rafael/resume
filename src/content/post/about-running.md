@@ -25,15 +25,15 @@ Somewhere in 2021, after doing these for many years, it became apparent in my br
 
 We moved to New York City in 2022. What do you want to do when you move to NYC? Run the Marathon, of course. The idea grew in my head throughout that year, and by the summer, I was pretty sure I wanted to do it. 
 
-For people who live in New York, there is this thing called 9+1, where you can participate in 9 races and 1 volunteering event and "qualify" for the Marathon. 
+For people who live in New York, there is this thing called 9+1, where you if you participate in 9 races and 1 volunteering event, you "qualify" for the Marathon. 
 
 So now I have a goal: in 2023, I do 9+1, and then the Marathon in 2024. But no plan. The first realization was that my usual pace in all these years was really slow for a marathon. It was going to take me 6 hours to finish. I started to work on improving my pace. And like any stellar rookie, I got injured. So, most of 2023 was just doing the minimum to participate in easy races and recovering from a very annoying (mild) injury in my hamstrings. 
 
-But I did it! I finished the races and the volunteering event (where my phone got stolen, and I volunteered under the rain on a humid spring morning for the Brookling half). However, it was done! 2024 years _could_ be the year to run the Marathon.
+But I did it! I finished the races and the volunteering event (where my phone got stolen, and I volunteered under the rain on a humid spring morning for the Brookling half). However, it was done! 2024 _could_ be the year that I get to run the Marathon.
 
 ## The training
 
-For most of the year, I've been slowly ramping up. I've focused on strength training with tons of mobility exercises. For the first time, I started liking going to the gym.
+For most of this year (2024), I've been slowly ramping up. I've focused on strength training with tons of mobility exercises. For the first time, I started liking going to the gym.
 
 Also, my running has structure for the first time in many years, and I've been slowly building the volume in preparation for the Marathon. 
 
@@ -49,7 +49,7 @@ That was the schedule for most of the year, and with consistent training, my pac
 
 ![alt text](pace_history.png)
 
-Today, we are 7 weeks and 4 days before the Marathon. The training now looks quite different, and the most important part is no longer the pace for me. I'm focused on building the volume. Running more than 21 Km, it was mostly uncharted territory. Last weekend, I ran 27km for the first time. But as the volume increases, my body kind of resents it. But then it gets used to... Or at least that has been what I've seen so far. But if I run 27 Km, I can't run 6 times per week right now. I'm trying to be mindful and tune the volume to push the limits while not getting injured. 
+Today, we are 7 weeks and 4 days before the Marathon. The training now looks quite different, and the most important part is no longer the pace for me. I'm focused on building the volume. Running more than 21 Km, was mostly uncharted territory. Last weekend, I ran 27km for the first time. But as the volume increases, my body kind of resents it. But then it gets used to... Or at least that has been what I've seen so far. But if I run 27 Km, my body can't take 6 times per week right now. I'm trying to be mindful and tune the volume to push the limits while not getting injured. 
 
 If everything goes well, my long runs will reach 35 km in the next four weeks. After that, as they say, the other 7 km in the Marathon will happen, one way or another. 
 
@@ -57,4 +57,4 @@ I will document some of the learnings in these next 4 weeks.
 
 ## Why to run? 
 
-This has been a lengthy post about this journey. There isn't any justification for the reasoning. Is it required to have some sort of closure? If I have anything to add, the main reason is that I found it fun. I would lie if I said there is some profound experience in this activity every time I go out... however... sometimes... in some runs... You go through everything. There is joy, there is pain, there is suffering, there is boredom... All packed in the span of a few hours. Those runs are not just a _run_. They are a window into living multiple lives. 
+This has been a lengthy post about this journey. You might be looking for a grand finale if you are still here. Is it required to have some sort of closure? I'm not so sure... I would say this: I find running fun. If I said there is some profound experience in this activity every time I go out, that wouldn't be true... however... sometimes... in some runs... You go through everything. There is joy, there is pain, there is suffering, there is boredom... That sounds oddly familiar to life... All packed in the span of a few hours. Those runs are not just a _run_. They are a life within a life. 
