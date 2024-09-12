@@ -33,17 +33,17 @@ But I did it! I finished the races and the volunteering event (where my phone go
 
 ## The training
 
-For most of the year, I've been slowly ramping up. I've focused on strength training with tons of mobility exercises. For the first time, I started liking going to the gym. But that's another story for another time. 
+For most of the year, I've been slowly ramping up. I've focused on strength training with tons of mobility exercises. For the first time, I started liking going to the gym.
 
 Also, my running has structure for the first time in many years, and I've been slowly building the volume in preparation for the Marathon. 
 
 The average week was looking something like this for the cardio/running:
-Monday: Easy run 6:30 minutes per KM / 40 minutes.
-Tuesday: Some track work (e.g., 20*200 meters 4:30 min /km)
-Wednesday:  VO2 Max workout (e.g., Norwegian 4x4 )
-Thursday:  Easy run 6:30 minutes per KM / 40-50 minutes.
-Friday: Tempo / Threshold work.
-Saturday: Long Run 10km  / 15km push pace for me.
+- **Monday**: Easy run 6:30 minutes per KM / 40 minutes.
+- **Tuesday**: Some track work (e.g., 20*200 meters 4:30 min /km)
+- **Wednesday**:  VO2 Max workout (e.g., Norwegian 4x4 )
+- **Thursday**:  Easy run 6:30 minutes per KM / 40-50 minutes.
+- **Friday**: Tempo / Threshold work.
+- **Saturday**: Long Run 10km  / 15km push pace for me.
 
 That was the schedule for most of the year, and with consistent training, my pace kept getting better. Here is a picture of the evolution:
 
