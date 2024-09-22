@@ -5,16 +5,9 @@ import Card from '../../components/Card.astro'
 import Label from '../../components/Label.astro'
 import SkillLayout from '../../components/SkillLayout.astro'
 
-import { getAllPosts, sortMDByDate } from '@/utils'
-
 const languages = ['ruby', 'go', 'scala (long time ago now)']
-// const frontend: string[] = []
 const backend = ['sinatra', 'rails']
 const others = ['aws', 'gcp', 'rds', 'mysql', 'vitess']
-
-const MAX_POSTS = 10
-const allPosts = await getAllPosts()
-const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 ---
 
 <PageLayout meta={{ title: 'resume' }}>
@@ -67,20 +60,6 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 				bussiness. More recently, working again in product engineering at Figma.
 			</p>
 		</Section>
-		<!-- {
-			allPostsByDate.length > 0 && (
-				<Section title='Posts'>
-					<ul class='flex flex-col gap-y-2'>
-						{allPostsByDate.map((p) => (
-							<li class='flex flex-col gap-x-2 sm:flex-row'>
-								<PostPreview post={p} />
-							</li>
-						))}
-					</ul>
-				</Section>
-			)
-		} -->
-
 		<Section title='Experience'>
 			<Card
 				heading='Figma'

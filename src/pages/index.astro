@@ -1,22 +1,7 @@
 ---
 import PageLayout from '../layouts/BaseLayout.astro'
-import Section from '../components/Section.astro'
-import Card from '../components/Card.astro'
 import ProjectCard from '../components/ProjectCard.astro'
-import Label from '../components/Label.astro'
-import SkillLayout from '../components/SkillLayout.astro'
-
-import { getAllPosts, sortMDByDate } from '@/utils'
 import HomeSection from '@/components/HomeSection.astro'
-
-const languages = ['ruby', 'go', 'scala (long time ago now)']
-// const frontend: string[] = []
-const backend = ['sinatra', 'rails']
-const others = ['aws', 'gcp', 'rds', 'mysql', 'vitess']
-
-const MAX_POSTS = 10
-const allPosts = await getAllPosts()
-const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS)
 ---
 
 <PageLayout meta={{ title: 'home' }}>
